@@ -1,18 +1,10 @@
-<!DOCTYPE html>
-<html>
-  <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
-  <!-- we import arjs version without NFT but with marker + location based support -->
-  <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
-  <body style="margin : 0px; overflow: hidden;">
-    <a-scene embedded arjs>
-      <a-marker preset="hiro">
-        <a-entity
-          position="0 0 0"
-          scale="0.05 0.05 0.05"
-          gltf-model="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/AR-js-org/AR.js/master/aframe/examples/image-tracking/nft/trex/scene.gltf"
-        ></a-entity>
-      </a-marker>
-      <a-entity camera></a-entity>
-    </a-scene>
-  </body>
-</html>
+# User Interface
+This page could be configured to improve the aesthetic, but I decide to a simple Makefile to a quick test.
+
+# Links
+Each link below is to a different test
+## A-frame test
+https://tsulam.github.io/AR.js_Marker/Example-001.html Only shows 3d Objects that could be moved using a mouse, touch commands or using a VR Headset
+
+## AR.js
+[Example002_Maker_Hiro](https://tsulam.github.io/AR.js_Marker/Example002_Maker_Hiro "I preferred to hide the whole text of the link")
