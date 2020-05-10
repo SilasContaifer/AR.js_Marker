@@ -8,3 +8,4 @@ Each link below is to a different test
 
 ## AR.js
 [Example002_Marker_Hiro](https://tsulam.github.io/AR.js_Marker/Example002_Marker_Hiro "I preferred to hide the whole text of the link")
+[Example003_Marker_Hiro](https://tsulam.github.io/AR.js_Marker/Example003_Marker_Hiro)
